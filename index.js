@@ -6,6 +6,7 @@ const manifest = {
   name: "My Live TV Channel",
   description: "Live stream from M3U8 link",
   types: ["tv"],
+  catalogs: [],
   resources: ["stream"],
   idPrefixes: ["livechannel"],
 };
